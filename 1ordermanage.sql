@@ -1,5 +1,22 @@
 -- Create Order Management System with at least 3 entities using MySQL and Implement Following Statements
-
+-- 1.
+-- Display the name of customers who have maximum orders.
+-- 2.
+-- Display the Mob No of customers who have highest Buying Total.
+-- 3.
+-- Display how many customers are there in customer collection.
+-- 4.
+-- Using collection of customer, and $exists, tell me how many customers belongs from pune city.
+-- 5.
+-- Find the customer who purchased shoes and cloth product.
+-- 6.
+-- Find the top 10 buyers.
+-- 7.
+-- Display all the orders where total amount is >1000.
+-- 8.
+-- Display all the customers with corresponding buying price.
+-- 9.
+-- Write a PROCEDURE which will return the Total Price per Customer.
 -- CREATING TABLES
 
 CREATE TABLE customers (
